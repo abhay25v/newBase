@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مستودع سهلة</string>
+
+    <!-- Login -->
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="login_username_hint">اسم المستخدم</string>
+    <string name="login_password_hint">كلمة المرور</string>
+    <string name="login_button">دخول</string>
+    <string name="login_error_empty_fields">الرجاء إدخال اسم المستخدم وكلمة المرور</string>
+    <string name="login_loading_message">جارٍ تسجيل الدخول…</string>
+    <string name="login_authenticating">توثيق ....</string>
+    <string name="login_choose_language">اختر اللغة</string>
+    <string name="login_choose_facility">اختر المنشأة</string>
+    <string name="login_capture_device_title">تسجيل الجهاز</string>
+    <string name="login_capture_device_hint">أدخل معرف الجهاز</string>
+    <string name="login_capture_device_submit">إرسال</string>
+    <string name="login_second_login_title">تم تسجيل الدخول بالفعل في مكان آخر</string>
+    <string name="login_second_login_proceed">متابعة</string>
+    <string name="login_second_login_cancel">إلغاء</string>
+    <string name="login_unauthorized">أنت غير مخول لاستخدام هذا التطبيق</string>
+    <string name="login_failed">فشل تسجيل الدخول. خطأ في اسم المستخدم أو كلمة مرور.</string>
+    <string name="login_store_not_found">لم يتم العثور على متجر أو منشأة لهذا المستخدم</string>
+    <string name="login_cbw_disabled">تم تعطيل CBW لهذا المستخدم</string>
+    <string name="login_environment_production">الإنتاج</string>
+    <string name="login_environment_non_production">غير الإنتاج</string>
+
+    <!-- Common -->
+    <string name="common_ok">موافق</string>
+    <string name="common_cancel">إلغاء</string>
+    <string name="common_retry">إعادة المحاولة</string>
+    <string name="common_loading">جارٍ التحميل…</string>
+    <string name="common_error_generic">حدث خطأ ما. الرجاء المحاولة مرة أخرى.</string>
+    <string name="common_error_network">لا يوجد اتصال بالإنترنت. الرجاء التحقق من الشبكة.</string>
+    <string name="common_logout">تسجيل الخروج</string>
+
+    <!-- Home -->
+    <string name="home_title">الرئيسية</string>
+    <string name="home_welcome">مرحباً، %1$s</string>
+    <string name="home_logout_confirm_title">تسجيل الخروج</string>
+    <string name="home_logout_confirm_message">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="coming_soon_title">قريباً</string>
+    <string name="coming_soon_message">هذه الميزة قيد النقل وستتوفر قريباً.</string>
+</resources>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sahla_primary">#1B5E20</color>
+    <color name="sahla_primary_variant">#0D3311</color>
+    <color name="sahla_secondary">#FFA000</color>
+    <color name="sahla_background">#F5F5F5</color>
+    <color name="sahla_surface">#FFFFFF</color>
+    <color name="sahla_error">#D32F2F</color>
+    <color name="sahla_on_primary">#FFFFFF</color>
+    <color name="sahla_on_background">#1A1A1A</color>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sahla Warehouse</string>
+
+    <!-- Login -->
+    <string name="login_title">Sign In</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">Login with AD</string>
+    <string name="login_error_empty_fields">Please enter username and password</string>
+    <string name="login_loading_message">Signing in…</string>
+    <string name="login_authenticating">Authenticating…</string>
+    <string name="login_choose_language">Choose Language</string>
+    <string name="login_choose_facility">Choose Facility</string>
+    <string name="login_capture_device_title">Device Registration</string>
+    <string name="login_capture_device_hint">Enter Device ID</string>
+    <string name="login_capture_device_submit">Submit</string>
+    <string name="login_second_login_title">Already Signed In Elsewhere</string>
+    <string name="login_second_login_proceed">Proceed</string>
+    <string name="login_second_login_cancel">Cancel</string>
+    <string name="login_unauthorized">You are not authorized to use this application</string>
+    <string name="login_failed">Login failed. Please try again.</string>
+    <string name="login_store_not_found">No store/facility found for this user</string>
+    <string name="login_cbw_disabled">CBW is disabled for this user</string>
+    <string name="login_environment_production">Production</string>
+    <string name="login_environment_non_production">Non-Production</string>
+
+    <!-- Common -->
+    <string name="common_ok">OK</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_retry">Retry</string>
+    <string name="common_loading">Loading…</string>
+    <string name="common_error_generic">Something went wrong. Please try again.</string>
+    <string name="common_error_network">No internet connection. Please check your network.</string>
+    <string name="common_logout">Logout</string>
+
+    <!-- Home -->
+    <string name="home_title">Home</string>
+    <string name="home_welcome">Welcome, %1$s</string>
+    <string name="home_logout_confirm_title">Logout</string>
+    <string name="home_logout_confirm_message">Are you sure you want to logout?</string>
+    <string name="coming_soon_title">Coming Soon</string>
+    <string name="coming_soon_message">This feature is being migrated and will be available soon.</string>
+</resources>
+
